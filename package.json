@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-react",
   "homepage": "https://github.com/Agustin09812/EcommerceReact-Final",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
