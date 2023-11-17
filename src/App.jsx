@@ -18,7 +18,7 @@ function App() {
 
   return (
     <ShopContextProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/EcommerceReact-Final">
         <Navbar />
         <Routes>
           <Route path="/" element={<ItemListContainer />} />
