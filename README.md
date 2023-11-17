@@ -1,5 +1,5 @@
 # Music Store
-Ecommerce digital para comprar instrumentos digitales.
+Ecommerce digital para comprar instrumentos.
 
 ## Tecnologías Utilizadas
 
