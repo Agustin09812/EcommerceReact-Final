@@ -1,8 +1,19 @@
-# React + Vite
+# Music Store
+Ecommerce digital para comprar instrumentos digitales.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologías Utilizadas
 
-Currently, two official plugins are available:
+- React
+- Firebase
+- React Bootstrap
+- SweetAlert2
+- Toastify
+- gh-pages
+- Otros
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Características Principales
+
+- Sistema de carrito de compras
+- Proceso de pago con formulario de checkout
+- Integración con Firebase para el almacenamiento de datos
+- Integracion con Firebase para mostrar los productos
