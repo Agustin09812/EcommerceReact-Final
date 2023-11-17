@@ -9,7 +9,7 @@ function CartWidget() {
   const { getTotalQuantity } = useContext(ShopContext)
   const total = getTotalQuantity()
 
-  // Establecer el color del texto en función del contenido del carrito
+  // Cambia el color del carrito si tiene o no productos dentro
   const textColor = total === 0 ? 'darkblue' : 'white'
 
   return (

@@ -25,6 +25,8 @@ const CheckOut = () => {
         title: 'Error',
         text: 'Por favor, completa todos los campos del formulario.',
         icon: 'error',
+        background: '#51585e',
+        color: '#fff'
       })
       return; // Detenemos la función si no se completan todos los campos
     }

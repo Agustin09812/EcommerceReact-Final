@@ -60,9 +60,9 @@ const ItemDetail = () => {
     })
   }
 
-  if (isLoading) {
-    return <p>Cargando...</p>
-  }
+  // if (isLoading) {
+  //   return <p style={{ color: "#fff" }}>Cargando...</p>
+  // }
 
   return (
     <Container className="mt-5">
