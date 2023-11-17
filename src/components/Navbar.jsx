@@ -25,7 +25,6 @@ function Navbar() {
     </BNavbar.Collapse>
   </Container>
 </BNavbar>
-
     </>
   )
 }
